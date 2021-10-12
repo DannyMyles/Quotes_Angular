@@ -54,7 +54,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [dannymyles1999@gmail.com] or [dabcun.wawire@student.moringaschool.com]
+If you have any question or contributions, please email me at [dannymyles1999@gmail.com] or [dancun.wawire@student.moringaschool.com]
 
 ## License
 * *MIT License:*
