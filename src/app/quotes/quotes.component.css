@@ -1,0 +1,54 @@
+h1{
+  color: rgba(221, 164, 138, 0.856);
+  text-align: center;
+  font-weight: bolder;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+h4{
+  font-family: 'Architects Daughter', cursive;
+}
+span{
+ font-weight: 900;
+ font-family: sans-serif;
+}
+.insightful{
+  background-color:rgba(96, 209, 132, 0.301);
+  border-radius: 5px;
+  margin: 4% 4% 4% 5%;
+  padding: 1% 1% 5%;
+ }
+#person{
+  color:rgb(145, 187, 134);
+  font-weight: 900;
+}
+.cards-all{
+  flex-wrap: wrap;
+  justify-content: space-around;
+  display: flex;
+
+}
+#button-quotes{
+  float: right;
+}
+.card{
+  margin-bottom: 2%;
+  background-color: transparent;
+  box-shadow: 2px 2px 3px 2px rgb(12, 12, 12);
+}
+#upload{
+  float: right;
+  font-size: 14px;
+}
+#styledate{
+  color: rgb(249, 253, 249);
+  font-weight: 700;
+}
+.text-card{
+  font-family: 'Handlee', cursive;
+  font-weight: 570;
+  font-size: 18px;
+  font-weight: 900;
+}
