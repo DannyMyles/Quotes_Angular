@@ -10,7 +10,7 @@ label{
 hr{
   width: 50%;
   height: 2px;
-  background-color: green;
+  background-color: rgb(3, 139, 3);
 }
 .heading{
   color: white;
