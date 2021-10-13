@@ -10,7 +10,11 @@
 }
 #thumpdown{
   font-size: 17px;
+<<<<<<< HEAD
   color: rgba(212, 52, 52, 0.932);
+=======
+  color: rgba(231, 34, 34, 0.932);
+>>>>>>> 4e296fa30c7cd73bacd4a844aa7e3bd3c195cbaa
 }
 .dislike{
   margin-left: 10px;
