@@ -60,4 +60,4 @@ If you have any question or contributions, please email me at [dannymyles1999@gm
 * *MIT License:*
 * Copyright (c) 2021 
  **DannyMyles** 
-# Quotes_Angular
+
