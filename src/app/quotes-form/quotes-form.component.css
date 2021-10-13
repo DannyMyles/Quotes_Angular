@@ -3,6 +3,12 @@
   background: transparent;
   font-weight: 570;
 }
+hr{
+  width: 50%;
+  height: 2px;
+  background-color: rgb(3, 139, 3);
+}
+
 label{
   color: rgb(238, 235, 235);
   font-weight: 600;
